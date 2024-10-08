@@ -1,10 +1,7 @@
 
-### Technical Writing Project Part 2
+### Set Up
 
-This part focuses on the Setup of NetApp's FabricPool.
-
-
-How to set up FabricPool for use with existing ONTAP system
+How to set up FabricPool for use with an existing ONTAP system
 
 FabricPool is a feature in NetApp's ONTAP storage operating system that allows you to tier less frequently accessed data(cold) to lower-cost object storages while keeping frequently accessed data(hot) to higher performing storages.
 
