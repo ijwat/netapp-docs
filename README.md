@@ -14,7 +14,7 @@ This technical writing project focuses on NetApp's FabricPool feature, detailing
   - **Data Movement**: Cold blocks are collected into 4MB objects and transferred to the cloud tier based on configured thresholds.
   - **Volume Management**: Describes the behavior of data movement between local and cloud tiers, including the volume move process and its impact on performance.
 
-[Full Architecture Documentation]()
+[Full Architecture Documentation](https://github.com/ijwat/netapp-docs/blob/main/architecture.md)
 
 ### 2. Setting Up FabricPool
 
@@ -24,7 +24,7 @@ This technical writing project focuses on NetApp's FabricPool feature, detailing
   - Retrieve and install CA certificates required for cloud tier integration.
   - Avoid common errors related to certificate verification during setup.
  
-[Full Set Up Documentation]() 
+[Full Set Up Documentation](https://github.com/ijwat/netapp-docs/blob/main/setup.md) 
 
 ## Conclusion
 
