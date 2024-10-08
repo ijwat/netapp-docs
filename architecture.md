@@ -1,12 +1,9 @@
 
-### Technical Writing Project
-
-This is my Technical Writing Project. This focuses on NetApp's FabricPool Architecture documentation. 
-
+### Architecture
 
 Understanding FabricPool's Architecture
 
-Key components for FabricPool's architecture are object storage, block temperature, and cloud tiering licenses. The architecture is designed to optimize storage instructure based on changing needs.
+Key components for FabricPool's architecture are object storage, block temperature, and cloud tiering licenses. The architecture is designed to optimize storage infrastructure based on changing needs.
 
 FabricPool Architecture Overview:
 ---------------------------------
